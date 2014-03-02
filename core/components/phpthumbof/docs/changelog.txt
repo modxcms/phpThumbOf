@@ -1,5 +1,13 @@
 Changelog for phpThumbOf package.
 
+phpThumbOf 1.4.1
+=====================================
+- OFFICIALLY DEPRECIATED. Migrate to pthumb or phpthumbsup or another alternative instead.
+- [#50] Fix bug on clearing cache
+- [#49] Improve file naming with phpthumbof.hash_thumbnail_names off
+- [#41] remove urldecode
+- [#47] make sure a not parsed placeholder does not trigger thumb generation
+
 phpThumbOf 1.4.0
 =====================================
 - [#22] Allow for thumbnails to preserve basename of file being thumbnailed
