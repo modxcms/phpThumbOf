@@ -6,6 +6,7 @@ A secure phpthumb output filter for MODx Revolution.
 ## Notice
 phpThumbOf is official depriciatated. Use [pthumb](http://modx.com/extras/package/pthumb) or [phpthumbof](http://rtfm.modx.com/extras/revo/phpthumbof) instead. [What's the difference](http://forums.modx.com/thread/86703/pthumb-or-phpthumbof)?
 
+```bash
                             ,--.
                            {    }
                            K,   }
@@ -31,3 +32,4 @@ phpThumbOf is official depriciatated. Use [pthumb](http://modx.com/extras/packag
        '-_~-,       ` `   ./`
           `'{_            )
               ^^\..___,.--`
+```
